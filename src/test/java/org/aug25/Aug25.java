@@ -20,6 +20,15 @@ public class Aug25 {
 	private void m6() {
 		System.out.println("3");
 		}
+	private void m7() {
+		System.out.println("3");
+		}
+	private void m8() {
+		System.out.println("3");
+		}
+	private void m9() {
+		System.out.println("3");
+		}
 	
 	
 	
